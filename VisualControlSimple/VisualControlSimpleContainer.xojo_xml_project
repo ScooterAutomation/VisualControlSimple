@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RBProject version="2021r3.1" FormatVersion="2" MinIDEVersion="20200200">
+<block type="Project" ID="0">
+ <ProjectSavedInVers>2021.031</ProjectSavedInVers>
+ <IDEVersion>20210301</IDEVersion>
+ <MajorVersion>1</MajorVersion>
+ <MinorVersion>0</MinorVersion>
+ <SubVersion>0</SubVersion>
+ <Release>0</Release>
+ <NonRelease>0</NonRelease>
+ <Region></Region>
+ <ShortVersion></ShortVersion>
+ <LongVersion></LongVersion>
+ <InfoVersion></InfoVersion>
+ <AutoIncVersion>0</AutoIncVersion>
+ <DefaultViewID>173252607</DefaultViewID>
+ <ProjectType>3</ProjectType>
+ <DefaultLanguage>0</DefaultLanguage>
+ <CurrentLanguage>0</CurrentLanguage>
+ <DefaultEncoding>0</DefaultEncoding>
+ <BuildFlags>272</BuildFlags>
+ <UseBuildsFolder>0</UseBuildsFolder>
+ <WebApp>1</WebApp>
+ <WebVersion>1</WebVersion>
+ <Icon>
+  <Element>
+   <ItemType>1768698674</ItemType>
+   <ItemData><Hex bytes="4096">000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007F7FFF007283940070839500708295007D90A1008999A800ABB3BB00ADB5BC0099A4AE00778A9A006A7B90007F7FFF000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007F7F9F007E8E9E007C8D9D007A8EA0008FA0B000B4BDC500B2BBC400BFC6CC00B9C1C900A1AEBB00C7CBD000D2D2D400A3AEB80074859800707F90007F7F9F0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000088949F00A6ADB500C7CACC00D9D9DA00CBCFD300C3C9CF00D0D4D700BBC3CB00C3CAD000C4CBD100CACFD300A3B0BE00C5CBD000DDDDDD00B5BCC30079899B007282920075839100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFFFF006B7E8F009FA8B100D7D7D700DDDDDD00DFDFDF00E1E1E200E1E1E100D6D6D600A6A6A600D1D2D4008A90960096999C00C6CACE00A3B0BD00CED2D500C5CBD00099A8B7009BA8B40071819100848F9900FFFFFF00000000000000000000000000000000000000000000000000000000000000000000000000FFFFFF006A7C8D008D99A700B3BBC400CCD0D300DFDFDF00E1E1E100E3E3E300E6E6E600C9C9C900D1D1D1008C909200989A9A009B9B9C008F929400A6B1BD00A6B3BF00BDC5CC009CABBA0096A6B6008897A700738394007E8A9700FFFFFF000000000000000000000000000000000000000000000000000000000000000000657486007B8C9D0095A4B20096A6B600BAC2CA00E1E1E100E3E3E300E5E5E600E7E7E700DFDFDF00C7C7C800BDBEBF00F0F0F000E6E6E6009C9C9D00D6DADD00AAB5C200A3B1BF009FADBB009BAAB90090A0AF008A9AA80084919E0075818E0000000000000000000000000000000000000000000000000000000000657487006F8091008A99A80096A6B6009AA9B800C2C9CF00E3E3E300E5E5E500E7E7E800EAEAEA00EAEAEA00A7A7A700C9C9C900F4F4F400DEDEDF00D3D3D300EAEAEA00D7DADD00AFB9C500A3B1BF009FADBB0096A6B60090A0AF008896A40099A1A9008790980000000000000000000000000000000000000000005F7F7F00647586008797A60091A0B00096A6B6009FADBB00BFC7CE00E6E6E600E7E7E700EAEAEB00EEEEEE00E0E0E000BABABA00B9B9B900A8A8A800A4A4A400DADADA00EAEAEB00DFE0E300BFC7CF00A9B6C2009FADBB009AA9B80095A5B6008C9BAA007F8E9D009CA1A70088999900000000000000000000000000000000005F6E7D00738190008C9BAA0090A0B0009AA9B8009FADBB00BEC6CE00E6E6E600EAEAEA00ECECEC00EFEFEF00D1D1D100F3F3F300FDFDFD00A7A7A700D7D7D700D2D2D200E3E4E500C7CED400C3CBD200B3BDC700A3B1BE009BAAB90095A5B50090A0B0008795A3007A889500848C94000000000000000000000000007F7F7F005F6E7E008594A2008B9BA90096A6B6009BAAB900A3B0BE00D1D4D800E7E7E800EBEBEC00EFEFEF00DDDDDD00E1E1E100FDFDFD00E1E1E100BABABA00FBFBFB00EAEAEA00D0D0D100D6DADE00B6BFC900ADB9C400A3B0BE009FADBB0095A5B50091A0B0008795A3008B97A20093989E007F7F7F000000000000000000596677006A7887008795A3008C9BAA0095A6B6009AA9B800A3B1BF00E2E3E300E7E7E700ECECEC00E8E8E800D2D2D200F9F9F900F9F9F900D5D5D500CFCFCF00F5F5F500FDFDFD00D4D5D600AEB6BE00B6BFC900ADB8C300A8B5C1009FADBB009BAAB90091A0B0008795A30083909D00979DA200646F7A00000000000000000059657600707E8B008795A3008B9BA90096A6B6009AA9B800A3B0BE00DFE0E200E7E7E700ECECEC00D2D2D200EAEAEA00FEFEFE00E3E3E300E6E6E600E9E9E900DEDEDE00FEFEFE00F7F7F700B6BABD00B4BDC700ACB8C300A8B4C1009FADBB009BAAB90090A0AF008795A300828F9D0075808B00868B900000000000000000005866750073818F008795A3008B9BAA0096A6B60098A7B60094A1AE00BBBFC400D3D3D300D1D1D200D6D6D600FCFCFC00F5F5F500C6C6C600E3E3E300E3E3E300C6C6C600EFEFEF00FDFDFD00E0E0E1009EA6AF009EA8B20094A1AE00919EAA00909FB00090A0AF008795A300838F9D007F8A9200949699000000000000000000586674006C7A88008795A3008C9BAA0095A5B6008F9CA800C8C8C800DEDEDE00DBDBDB00A5A5A500EFEFEF00FEFEFE00C5C5C500C6C6C600EAEAEA00EAEAEA00CECECE00B0B1B300FAFAFA00FAFAFA00A0A2A400DFDFDF00E4E4E400DDDDDD00969EA60091A1B0008795A300828F9C00747F8A009C9D9F000000000000000000515F6C005E6D7D00738291008A99A80091A0B0008F9CA800DDDDDD00F3F3F300CDCECE00DADADA00FCFCFC00EBEBEB00C9CACA00FAFAFA00FEFEFE00FEFEFE00FDFDFD00C8CACB00D8D9D900FDFDFD00E7E7E700BEC0C300F6F6F600F0F0F0009DA5AC008B9BAA00818F9E00677685007C848C00A0A0A1000000000000000000515F6D0057667400647485006A7C8C00758799008492A000DFDFDF00E3E3E300BBBDBF00F7F7F700FAFAFA00CBCBCB00E7E7E700FDFDFD00FEFEFE00FEFEFE00FEFEFE00F3F3F300B7BABD00EFEFEF00F2F2F20096989B00D7D7D800EAEAEA008F97A00071829500637484005D6D7D00878D93009696980000000000000000004C586500596776005D6D7C00647485006F82950078869500B5B8BB00989B9E00DADADA00F8F8F800D9D9D900A5A5A500D1D2D400D2D3D500D2D4D600D2D4D600D3D5D700D1D2D500C2C5C80096999C009EA0A100A8AAAB0090949700BBBEC200808A94006A7B8D0063748400586675008D9194009092930000000000000000004C586500515F6C0057667500647585006A7B8D006F8294006D809200A9ADB200F1F1F100F1F1F100B6B9BD00D2D2D200AFB7BE0093A0AD00BBC1C600919EAB0093A0AC00A3ACB700A0A9B5007A859100B8BABB00F2F2F200B3B7BB006D7F910067798900637485005E6D7D00515F6D008E9195007E818500000000000000000045515C004C586500576674005D6D7C0063748400697A8C005D67700091949600BCBDBE00C4C7CA00808FA000AFB8C200CDD0D400D2D4D700C0C7CD0095A5B3008D9DAE0093A3B3008C9DAE008799A9008B97A300DFDFDF00949697005E687200647485005D6D7C0058667500525F6D00959698006F72770000000000000000003F4C550046515D00525F6D00576675005E6D7D006070800093989D00DCDCDC0094969700798591008093A6008194A7008799AB0092A2B200BDC4CA00BFC5CA008799AB008295A8008396A9007B90A400738699006D767F00B0B2B300A5A7A8005F6D780058667500515F6C004B5864008A8B8C00666B6D0000000000000000007F7F7F003F4A54004B586400525F6D005766740058667500B4B6B800CDCDCE00878F980072859800768A9D007C90A4007C90A4007B90A4008194A700A9B3BD008E9EAE009FABB700BFC3C800B1B8BF0097A2AD0063728200C4C5C600E0E0E00083898E00525F6D004C58650045515D006E727600555555000000000000000000000000003A454D0045515C004C586500525F6D0053606C009FA2A4006976810062718200697B8D006F8294006F82940076899D0075899C0076899D00788A9E008193A300CDCDCE00D0D0D000CCCCCC00CCCCCD00A3A9AF006F767F00B0B2B300909497004B58640045515C003F4A54003A454D00000000000000000000000000000000003F3F5F00404A550045515C004B586400515E6C00505E6B00576574005D6D7C006474850064748500697B8D006A7C8D00697B8D006A7B8D00697B8C0084919E00CDCDCD00CACACA00CACACA00C0C0C100B7B7B700747E87004F5A6700545C630046515D00404A550039434C003F3F5F000000000000000000000000000000000000000000343D460039424C003F4A550046515D004B586400515F6D0057667400586675005D6D7C005E6D7D0063748400647585006475850064748500B1B5B900C0C0C000C0C0C100B7B7B700B6B6B700AAABAC009B9C9E006B727B0045515C00404A550039434C00343D460000000000000000000000000000000000000000000000000000000000353D450039434C003F4A540046515D004C5865004B586400515F6D00525F6D005766750058667500586675005766740058667500A6A9AC00B7B7B700ADADAE00ADADAE00A3A3A400A3A3A40099999A00868789003A444D0039434C00353D45000000000000000000000000000000000000000000000000000000000000000000FFFFFF00353C45003A434D0039434C00404A550045515C0046515D004B5864004B5864004C586500515F6C00515F6D00525F6D00666F7800A3A3A300A3A3A40099999A0099999A009090910084868800424B5300333C44002F353E00FFFFFF00000000000000000000000000000000000000000000000000000000000000000000000000FFFFFF002E353D00343C450039434C003A434D003F4A55003F4A540046515D0046515D0045515C0046515D0045515C0049545F008B8C9000909091009090900086868700818283003F464E00333C44002E353D00FFFFFF000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002E373D002D353C00343C4500333B44003A434D0039434C0039424C0039434D0039434C0039434D003A434D0060656A00868687007D7D7E00696B6E00383F45002D353C00272E340000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000024242400252B31002D343B002E353D002E353D00333C4400343C4500333C4400343C45003A414A006F6F71006B6C6D0043494D00272E3400252B31002424240000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003030300131519001E23270022282D00242A3000272C3400272D3400484A4D004043470023272C0011151700030303000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Hex></ItemData>
+  </Element>
+  <Element>
+   <ItemType>1815637355</ItemType>
+   <ItemData><Hex bytes="1024">000000000000000000000000000000000000000000000000000000000000000000000000000000000000023C8CBFDBF5F9EFD5913C020000000000000000000000000000000000000881EBFFFFFFFFFFFFFFFFFFFFE9780800000000000000000000000000000065F1FFFFFFFFFFFFFFFFFFFFFFFFFFFFE45B0000000000000000000000000187FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9C0100000000000000000001A8FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB801000000000000000085FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF960000000000000053FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7A000000000008E2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF30F0000000076FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA500000002E9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF60200003CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF4700008CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC40000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEF0000D9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA0000F3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE0000F3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE0000D9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA0000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFED00008CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC900003CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6B000002E9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF60300000076FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF760000000008E2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE208000000000053FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF530000000000000085FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF85000000000000000001A8FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA8010000000000000000000185FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF850100000000000000000000000053E2FFFFFFFFFFFFFFFFFFFFFFFFFFFFE2530000000000000000000000000000000E80ECFFFFFFFFFFFFFFFFFFFFEC800E000000000000000000000000000007132B385283BBDFEEFAFAF6EBBD8352382B1307000000000000000000000000000000000606111E1E1F201E1E11060600000000000000000000</Hex></ItemData>
+  </Element>
+  <Element>
+   <ItemType>1769157426</ItemType>
+   <ItemData><Hex bytes="1024">0000000000000000000000000000000000000000008796A50079889700919CAA00A5ADB6008C9BA5006F7F8F00000000000000000000000000000000000000000000000000000000000000000099A0A700A9B1B700AFB8C100BAC1C700BEC4C900B7BFC600C1C5CA00AFB8C1007B8B9B00737F8B0000000000000000000000000000000000000000006E7F8A009AA4AF00D7D7D800DEDEDF00D7D7D700C2C2C300B3B4B700B1B8BE00BAC2C90091A1B100808F9F007F8D9700000000000000000000000000737F8B007B8A9B008FA0B000D7D9DB00E5E5E500DBDBDB00CECFCF00F7F7F700CBCCCD00B1BCC5009CABB9008D9EAE008E99A5007F878F0000000000000000006C7B88008C9DAE009DABBB00D7D9DC00E6E6E600D3D3D300E8E8E800D0D0D100D0D0D000C7CCD300AAB6C20092A2B200808F9F008C959E0000000000717F8D00717E8B0091A2B2009DABBA00E1E2E200E1E1E100DADADA00ECECEC00E0E0E000DFDFDF00B4BBC200A6B2BF009DABBB008695A4008F97A0006B788600606C7B0072808E0091A1B10095A3B200CDCDCF00CBCBCB00FBFBFB00C9C9C900C6C6C600FBFBFB00B3B7BB0098A4B00094A2B0008695A3007A87940080868B00576471006B7988008798A800B9BEC300F1F1F200E8E8E800E9E9E900F4F4F400F5F5F500DEDEDE00EAEBEB00ECEDED00CBCFD2007A8998007B8792007E83850044525D00637181006E7F8F00B0B6BB00DEDFDF00F8F8F800D7D8D800EDEDEE00EDEEEE00D9DADC00DDDEDF00C9CACB00BFC4C8006D7D8D00727B84007C80830044505D00525F6D005C6C7C0063728000DADBDD00B9BEC300B5B9BE00ACB3BA008998A500939FAC00919BA600E2E3E500606D7B005C6C7B0070788000616569004444550045505C004F5C6A008C939B00CED0D100728394008395A80096A5B300A2ADBA0094A1B0008897A400A5ABB000B0B4B8004E5C6800666D7500585862000000000037414B00434E5A006C757E005E6B7900697B8D006B7D8F006B7D8F0078889700CECECE00CBCBCB008C93990092979D00434D580039414B00000000000000000033333F0036404900444F5900515E6C00525F6D005F6E7E005F6E7E0087919A00C2C2C200ADADAD00A8A9AA005C646C003740490033333F000000000000000000000000002F353B0038414B0037414A0044505B0044505B0044505B004D57610095969600999999006F7275003A444D002A363C00000000000000000000000000000000000000000033333F002B32390038414A0038414A0038414B003A434B0077797B004E5155002F343B0026333300000000000000000000000000000000000000000000000000000000000000000033333300252B3100252A300035393F00353A3F003333330000000000000000000000000000000000000000</Hex></ItemData>
+  </Element>
+  <Element>
+   <ItemType>1933077867</ItemType>
+   <ItemData><Hex bytes="256">000000000011568EA66610000000000000000023C8FCFFFFFFFFFC9F1600000000002EECFFFFFFFFFFFFFFFFE53600000016E3FFFFFFFFFFFFFFFFFFFFEA2000009DFFFFFFFFFFFFFFFFFFFFFFFFB60012FAFFFFFFFFFFFFFFFFFFFFFFFFFB1357FFFFFFFFFFFFFFFFFFFFFFFFFFFF8975FFFFFFFFFFFFFFFFFFFFFFFFFFFFB373FFFFFFFFFFFFFFFFFFFFFFFFFFFFB252FFFFFFFFFFFFFFFFFFFFFFFFFFFF800FFAFFFFFFFFFFFFFFFFFFFFFFFFFC1A0098FFFFFFFFFFFFFFFFFFFFFFFF98000014E1FFFFFFFFFFFFFFFFFFFFE1140000002BE1FFFFFFFFFFFFFFFFE12A00000000001498FAFFFFFFFFFC9B1400000000000000000F527385640F0000000000</Hex></ItemData>
+  </Element>
+ </Icon>
+ <MacCreator></MacCreator>
+ <BuildCarbonMachOName>VisualControlUpdate</BuildCarbonMachOName>
+ <BundleIdentifier>com.visualcontrolupdate.visualcontrolupdate</BundleIdentifier>
+ <WinMDICaption></WinMDICaption>
+ <BuildWinName>VisualControlUpdate.exe</BuildWinName>
+ <BuildWinMDI>0</BuildWinMDI>
+ <BuildWinCompanyName>VisualControlUpdate</BuildWinCompanyName>
+ <BuildWinProductName></BuildWinProductName>
+ <BuildWinInternalName></BuildWinInternalName>
+ <BuildWinFileDescription></BuildWinFileDescription>
+ <UseGDIPlus>0</UseGDIPlus>
+ <HiDPI>1</HiDPI>
+ <BuildLinuxX86Name>VisualControlUpdate</BuildLinuxX86Name>
+ <DebuggerCommandLine></DebuggerCommandLine>
+ <WebPort>-1</WebPort>
+ <WebSecurePort>-1</WebSecurePort>
+ <WebProtocol>1</WebProtocol>
+ <WebDebugPort>8080</WebDebugPort>
+ <WebLaunchString>Launching...</WebLaunchString>
+ <WebHTMLHeader></WebHTMLHeader>
+ <WebDisconnectString>The application has gone off-line. Please try again later.</WebDisconnectString>
+ <WebHostingIdentifier></WebHostingIdentifier>
+ <WebHostingAppName>VisualControlUpdate</WebHostingAppName>
+ <WebHostingDomain></WebHostingDomain>
+ <LinuxArchitecture>1</LinuxArchitecture>
+ <MacArchitecture>1</MacArchitecture>
+ <OptimizationLevel>0</OptimizationLevel>
+ <CopyWindowsRedist>0</CopyWindowsRedist>
+ <WindowsVersions>{35138b9a-5d96-4fbd-8e2d-a2440225f93a}|{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}|{1f676c76-80e1-4239-95bb-83d0f6d0da78}|{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}</WindowsVersions>
+ <WindowsRunAs>0</WindowsRunAs>
+</block>
+<block type="Module" ID="933834751">
+ <ObjName>App</ObjName>
+ <ObjContainerID>0</ObjContainerID>
+ <IsClass>1</IsClass>
+ <Superclass>WebApplication</Superclass>
+ <ItemFlags>1</ItemFlags>
+ <IsInterface>0</IsInterface>
+ <IsApplicationObject>1</IsApplicationObject>
+ <Compatibility></Compatibility>
+ <HookInstance>
+  <ItemName>HandleURL</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>116013055</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Function HandleURL(Request As WebRequest, Response As WebResponse) As Boolean</SourceLine>
+   <SourceLine>If Request.Path &lt;&gt; "" Then</SourceLine>
+   <SourceLine>Dim ResponseTagDataDic As New Dictionary</SourceLine>
+   <SourceLine>Dim s(-1) As String</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>s = Split(Request.Path, ",")</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>If s().Ubound &lt;&gt; -1 And Not IsNull(s) Then</SourceLine>
+   <SourceLine>For i As Integer = 0 To s().Ubound</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>Dim ControlName As String = s(i)</SourceLine>
+   <SourceLine>i = i + 1</SourceLine>
+   <SourceLine>Dim ControlData As String = s(i)</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>ResponseTagDataDic.Value(ControlName) = ControlData</SourceLine>
+   <SourceLine>Next</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>If ResponseTagDataDic.KeyCount &lt;&gt; -1 Then</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>For Each ActiveSession As WebSession In Sessions</SourceLine>
+   <SourceLine>Dim Context As New WebSessionContext(ActiveSession.Identifier)</SourceLine>
+   <SourceLine>Dim ContainerName As String = Session(ActiveSession).ContainerName</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>If Session(ActiveSession).ContainerDic.HasKey(ContainerName) Then</SourceLine>
+   <SourceLine>Dim CurrentPage As WebContainer = Session(ActiveSession).ContainerDic.Value(ContainerName)</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>If CurrentPage &lt;&gt; Nil Then</SourceLine>
+   <SourceLine>For Each ControlOnPage As Variant In CurrentPage.Controls</SourceLine>
+   <SourceLine>If ControlOnPage IsA VisualControl Then</SourceLine>
+   <SourceLine>Dim VisualPageControl As VisualControl = ControlOnPage</SourceLine>
+   <SourceLine>If ResponseTagDataDic.HasKey(VisualPageControl.Name) Then</SourceLine>
+   <SourceLine>Dim VisualPageData As String = ResponseTagDataDic.Value(VisualPageControl.Name)</SourceLine>
+   <SourceLine>If VisualPageData &lt;&gt; "" Then</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>VisualControl(VisualPageControl).ResetAnimation(VisualPageControl.ControlID, VisualPageData)</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>CurrentPage.SetFocus()</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>//CurrentPage.UpdateBrowser()</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>Next</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>Next</SourceLine>
+   <SourceLine>Return True</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End Function</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <HookInstance>
+  <ItemName>UnhandledException</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>55658495</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Function UnhandledException(Error As RuntimeException) As Boolean</SourceLine>
+   <SourceLine>Print("UnhandledError: " + Str(Error.ErrorNumber) + ":" + Error.Message + ":" + Error.Reason  + ":" + Join(Error.Stack, ""))</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>Return True</SourceLine>
+   <SourceLine>End Function</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <Method>
+  <ItemName>SendMethod</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>704976895</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub SendMethod(DataStr As String)</SourceLine>
+   <SourceLine>//If DataStr &lt;&gt; "" Then</SourceLine>
+   <SourceLine>//Dim TempDic As Dictionary</SourceLine>
+   <SourceLine>//Dim TagObjDic As New Dictionary</SourceLine>
+   <SourceLine>//Dim Condition, ConditionVal, DataKey As String</SourceLine>
+   <SourceLine>//Dim ResponseTagDataDic As New Dictionary</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//Dim s(-1) As String</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//s = Split(DataStr, MessageRowDelimiter)</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//For Each ActiveSession As WebSession In Sessions</SourceLine>
+   <SourceLine>//Dim Context As New WebSessionContext(ActiveSession)</SourceLine>
+   <SourceLine>//Dim PageName As String = Session(ActiveSession).PageName</SourceLine>
+   <SourceLine>////Dim CurrentPage As WebView = Session(ActiveSession).ContainerStore(PageName)</SourceLine>
+   <SourceLine>////Dim SessionObjDic As Dictionary = ObjectDic.Value(ActiveSession.Identifier)</SourceLine>
+   <SourceLine>//Dim i As Integer </SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//For i As Integer To ActiveSession.Pages</SourceLine>
+   <SourceLine>//Dim SessionWebPage As WebPage = ActiveSession.PageAt(i)</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>////For Each TagControl As String In ResponseTagDataDic.Keys</SourceLine>
+   <SourceLine>//If SessionWebPage.Name.IndexOf(PageName) &lt;&gt; -1 Then</SourceLine>
+   <SourceLine>//Dim y As Integer</SourceLine>
+   <SourceLine>//For y As Integer To SessionWebPage.Controls</SourceLine>
+   <SourceLine>//Dim ControlOnPage As WebControl = SessionWebPage.ControlAt(y)</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//If ControlOnPage IsA VisualControl Then</SourceLine>
+   <SourceLine>//Dim PageVisualControl As VisualControl = ControlOnPage</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>////Dim PLCResponseValue As String = "True"</SourceLine>
+   <SourceLine>//If PageVisualControl.Name.IndexOf("LC") &lt;&gt; -1 Then</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//If PageVisualControl.OperationState &lt;&gt; PLCResponseValue Then</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//If PLCResponseValue = "True" Then</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//VisualControl(PageVisualControl).ResetAnimation(PageVisualControl.ControlID, PLCResponseValue)</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//ElseIf PLCResponseValue = "False" Then</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//VisualControl(PageVisualControl).ResetAnimation(PageVisualControl.ControlID, PLCResponseValue)</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//End If</SourceLine>
+   <SourceLine>//</SourceLine>
+   <SourceLine>//End If</SourceLine>
+   <SourceLine>//End If</SourceLine>
+   <SourceLine>//End If</SourceLine>
+   <SourceLine>//Next</SourceLine>
+   <SourceLine>//End If</SourceLine>
+   <SourceLine>//Next</SourceLine>
+   <SourceLine>//Next</SourceLine>
+   <SourceLine>//End If</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <AliasName></AliasName>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+  <ItemParams>DataStr As String</ItemParams>
+  <ItemResult></ItemResult>
+ </Method>
+ <Property>
+  <ItemName>ASCII_DoubleQuote</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>2067957759</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>ASCII_DoubleQuote As String</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>ASCII_DoubleQuote As String</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+  <SetAccessor>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Set</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End Set</SourceLine>
+  </SetAccessor>
+  <GetAccessor>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Get</SourceLine>
+   <SourceLine>Return Chr(34)</SourceLine>
+   <SourceLine>End Get</SourceLine>
+  </GetAccessor>
+ </Property>
+ <Property>
+  <ItemName>MessageColDelimiter</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1431248895</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>MessageColDelimiter As String = "{^}"</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>MessageColDelimiter As String = "{^}"</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+ </Property>
+ <Property>
+  <ItemName>MessageRowDelimiter</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1981026303</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>MessageRowDelimiter As String = "{~}"</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>MessageRowDelimiter As String = "{~}"</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+ </Property>
+ <PropertyVal Name="MenuBar">0</PropertyVal>
+ <ViewBehavior>
+  <ViewProperty>
+   <ObjName>ASCII_DoubleQuote</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>MessageColDelimiter</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>{^}</PropertyValue>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>MessageRowDelimiter</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>{~}</PropertyValue>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+ </ViewBehavior>
+</block>
+<block type="WebSession" ID="1501433855">
+ <ObjName>Session</ObjName>
+ <ObjContainerID>0</ObjContainerID>
+ <IsClass>1</IsClass>
+ <Superclass>WebSession</Superclass>
+ <ItemFlags>1</ItemFlags>
+ <IsInterface>0</IsInterface>
+ <Compatibility></Compatibility>
+ <HookInstance>
+  <ItemName>Opening</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>727128063</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub Opening()</SourceLine>
+   <SourceLine>ContainerDic = New Dictionary</SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <Property>
+  <ItemName>ContainerName</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1189484543</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>ContainerName As String</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>ContainerName As String</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+ </Property>
+ <Property>
+  <ItemName>ContainerDic</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1430380543</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>ContainerDic As Dictionary</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>ContainerDic As Dictionary</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+ </Property>
+ <PropertyVal Name="AllowTabOrderWrap">True</PropertyVal>
+ <PropertyVal Name="ConfirmMessage"></PropertyVal>
+ <PropertyVal Name="DisconnectMessage">You have been disconnected from this application.</PropertyVal>
+ <PropertyVal Name="InterruptMessage">We are having trouble communicating with the server. Please wait a moment while we attempt to reconnect.</PropertyVal>
+ <ViewBehavior>
+  <ViewProperty>
+   <ObjName>Index</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>ID</PropertyGroup>
+   <PropertyValue>-2147483648</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Name</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>ID</PropertyGroup>
+   <ItemType>String</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Super</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>ID</PropertyGroup>
+   <ItemType>String</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Left</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>0</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Top</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>0</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>HashTag</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Identifier</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LanguageCode</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LanguageRightToLeft</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>RemoteAddress</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>ScaleFactor</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Double</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>UserTimeout</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>URL</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>_baseurl</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>string</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>DisconnectMessage</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>You have been disconnected from this application.</PropertyValue>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>InterruptionMessage</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>We are having trouble communicating with the server. Please wait a moment while we attempt to reconnect.</PropertyValue>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>_LastMessageTime</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Double</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>AllowTabOrderWrap</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>ConfirmDisconnectMessage</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Platform</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>IsDarkMode</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>ClientHeight</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>ClientWidth</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>ContainerName</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+ </ViewBehavior>
+</block>
+<block type="Module" ID="1215008767">
+ <ObjName>VisualControl</ObjName>
+ <ObjContainerID>0</ObjContainerID>
+ <IsClass>1</IsClass>
+ <Superclass>WebSDKUIControl</Superclass>
+ <ItemFlags>1</ItemFlags>
+ <IsInterface>0</IsInterface>
+ <Compatibility></Compatibility>
+ <HookInstance>
+  <ItemName>ExecuteEvent</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>506396671</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Function ExecuteEvent(name as string, parameters as JSONItem) As Boolean</SourceLine>
+   <SourceLine>// Events sent with TriggerServerEvent using your controlID will end up here</SourceLine>
+   <SourceLine>If name = "Pressed" Then</SourceLine>
+   <SourceLine>RaiseEvent Pressed</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>End Function</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <HookInstance>
+  <ItemName>HandleRequest</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>418891775</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Function HandleRequest(Request As WebRequest, Response As WebResponse) As Boolean</SourceLine>
+   <SourceLine>// Requests sent to the session with the following pattern</SourceLine>
+   <SourceLine>// </SourceLine>
+   <SourceLine>// /&lt;Session Identifier&gt;/data/&lt;controlID&gt;/request_path</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End Function</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <HookInstance>
+  <ItemName>JavaScriptClassName</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>2092234751</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Function JavaScriptClassName() As String</SourceLine>
+   <SourceLine>// Name of your JavaScript class which extends XojoWeb.XojoVisualControl</SourceLine>
+   <SourceLine>Return "SA.VectorImage"</SourceLine>
+   <SourceLine>End Function</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <HookInstance>
+  <ItemName>Serialize</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>322727935</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub Serialize(js as JSONItem)</SourceLine>
+   <SourceLine>// Use this method to serialize the data your control needs for initial setup</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <HookInstance>
+  <ItemName>SessionHead</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1048528895</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Function SessionHead(session as WebSession) As String</SourceLine>
+   <SourceLine>// Return anything that you needed added to the &lt;head&gt; of the web app</SourceLine>
+   <SourceLine>End Function</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <HookInstance>
+  <ItemName>SessionJavascriptURLs</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1634265087</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Function SessionJavascriptURLs(session as WebSession) As String()</SourceLine>
+   <SourceLine>// Return an array of Javascript URLs for your control</SourceLine>
+   <SourceLine>// Here's one way to do this...</SourceLine>
+   <SourceLine>Dim AppName As String</SourceLine>
+   <SourceLine>Dim AnimationState As New Dictionary</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>If JSMethods = Nil Then</SourceLine>
+   <SourceLine>JSMethods = New WebFile</SourceLine>
+   <SourceLine>JSMethods.ForceDownload = False</SourceLine>
+   <SourceLine>JSMethods.Filename = "JSMethods.js"</SourceLine>
+   <SourceLine>JSMethods.MIMEType = "text/javascript"</SourceLine>
+   <SourceLine>JSMethods.Data = JavascripttData</SourceLine>
+   <SourceLine>JSMethods.Session = Nil</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>If JSFramework = Nil Then</SourceLine>
+   <SourceLine>JSFramework = New WebFile</SourceLine>
+   <SourceLine>JSFramework.Filename = "InitJavascript.js"</SourceLine>
+   <SourceLine>JSFramework.MIMEType = "text/javascript"</SourceLine>
+   <SourceLine>JSFramework.Data = InitJavascript</SourceLine>
+   <SourceLine>JSFramework.Session = nil // Very important, so this file will be available to all sessions</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>Dim urls() As String</SourceLine>
+   <SourceLine>urls.Append JSMethods.URL</SourceLine>
+   <SourceLine>urls.Append JSFramework.URL</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>Return urls</SourceLine>
+   <SourceLine>End Function</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <HookInstance>
+  <ItemName>SessionCSSURLs</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>212051967</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Function SessionCSSURLs(session as WebSession) As String()</SourceLine>
+   <SourceLine>// Return an array of CSS URLs for your control</SourceLine>
+   <SourceLine>// Here's one way to do this...</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>If MyControlCSS = Nil Then</SourceLine>
+   <SourceLine>MyControlCSS = New WebFile</SourceLine>
+   <SourceLine>MyControlCSS.Filename = "myclass.css"</SourceLine>
+   <SourceLine>MyControlCSS.MIMEType = "text/css"</SourceLine>
+   <SourceLine>MyControlCSS.data = "#" + Self.ControlID + " { color: red }"</SourceLine>
+   <SourceLine>MyControlCSS.Session = Nil // Very important, so this file will be available to all sessions</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>Dim urls() As String</SourceLine>
+   <SourceLine>urls.Append MyControlCSS.URL</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>Return urls</SourceLine>
+   <SourceLine>End Function</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <HookInstance>
+  <ItemName>DrawControlInLayoutEditor</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1039726591</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub DrawControlInLayoutEditor(g as graphics)</SourceLine>
+   <SourceLine>Dim Pic As Picture = PictureProperty("VectorImagePic")</SourceLine>
+   <SourceLine>Dim StretchImage As Boolean = BooleanProperty("StretchImage")</SourceLine>
+   <SourceLine>Dim RotationAngle As Integer = DoubleProperty("RotateAngle")</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>// Grab the pic width &amp; height</SourceLine>
+   <SourceLine>Dim pw As Integer = pic.Width</SourceLine>
+   <SourceLine>Dim ph As Integer = pic.Height</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>pw = pic.Width</SourceLine>
+   <SourceLine>ph = pic.Height</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>Dim factorwidth As Double = g.Width / pw</SourceLine>
+   <SourceLine>Dim factorheight As Double = g.Height / ph</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>Dim factor As Double = min(factorwidth, factorheight)</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>Dim w As Integer = pw * factor</SourceLine>
+   <SourceLine>Dim h As Integer = ph * factor</SourceLine>
+   <SourceLine>Dim x As Integer = (g.Width - w) / 2</SourceLine>
+   <SourceLine>Dim y As Integer = (g.Height - h) / 2</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>If StretchImage = True Then</SourceLine>
+   <SourceLine>g.DrawPicture(Pic, 0, 0, g.Width, g.Height, 0, 0, pw, ph) //stretch</SourceLine>
+   <SourceLine>Else</SourceLine>
+   <SourceLine>g.DrawPicture(Pic, x, y, w, h, 0, 0, pw, ph)</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <HookInstance>
+  <ItemName>Shown</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>850268159</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub Shown()</SourceLine>
+   <SourceLine>If VectorImageStr &lt;&gt; "" Then</SourceLine>
+   <SourceLine>GenerateAnimation(VectorImageStr)</SourceLine>
+   <SourceLine>Else</SourceLine>
+   <SourceLine>GenerateAnimation()</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <Method>
+  <ItemName>Constructor</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1094477823</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub Constructor()</SourceLine>
+   <SourceLine>// Calling the overridden superclass constructor.</SourceLine>
+   <SourceLine>// Note that this may need modifications if there are multiple constructor choices.</SourceLine>
+   <SourceLine>// Possible constructor calls:</SourceLine>
+   <SourceLine>// Constructor() -- From WebSDKUIControl</SourceLine>
+   <SourceLine>// Constructor() -- From WebUIControl</SourceLine>
+   <SourceLine>// Constructor() -- From WebControl</SourceLine>
+   <SourceLine>Super.Constructor</SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <AliasName></AliasName>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+  <ItemParams></ItemParams>
+  <ItemResult></ItemResult>
+ </Method>
+ <Method>
+  <ItemName>GenerateAnimation</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1292503039</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub GenerateAnimation(ImageDataStr As String = "")</SourceLine>
+   <SourceLine>If ImageDataStr &lt;&gt; "" Then</SourceLine>
+   <SourceLine>If ImageDataStr &lt;&gt; VectorImageStr Then</SourceLine>
+   <SourceLine>If ImageDataStr = "Astronaut" Then</SourceLine>
+   <SourceLine>VectorImagePic = Astronaut</SourceLine>
+   <SourceLine>VectorImageStr = "Astronaut"</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>ElseIf ImageDataStr = "Puzzle" Then</SourceLine>
+   <SourceLine>VectorImagePic = Puzzle</SourceLine>
+   <SourceLine>VectorImageStr = "Puzzle"</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>ElseIf ImageDataStr = "Cow" Then</SourceLine>
+   <SourceLine>VectorImagePic = Cow</SourceLine>
+   <SourceLine>VectorImageStr = "Cow"</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>If VectorImagePic &lt;&gt; Nil Then</SourceLine>
+   <SourceLine>PNGWebFile = New WebFile</SourceLine>
+   <SourceLine>PNGWebFile.Filename = Self.ControlID + ".png"</SourceLine>
+   <SourceLine>PNGWebFile.MIMEType = "image/png"</SourceLine>
+   <SourceLine>PNGWebFile.Data = VectorImagePic.ToData(Picture.Formats.PNG, Picture.QualityMaximum)</SourceLine>
+   <SourceLine>PNGWebFile.Session = Nil</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>If Not IsNull(PNGWebFile) Then</SourceLine>
+   <SourceLine>If RedisplayImage = True Then</SourceLine>
+   <SourceLine>Self.ExecuteJavaScript("var elem = document.getElementById('" + Self.ControlID + "');" + _</SourceLine>
+   <SourceLine>"var elem2 = elem.getElementsByTagName('img')[0];" + _</SourceLine>
+   <SourceLine>"elem2.setAttribute('src', '" + PNGWebFile.URL + "');" + _</SourceLine>
+   <SourceLine>"elem2.setAttribute('height', '100%');" + _</SourceLine>
+   <SourceLine>"elem2.setAttribute('width', '100%');" + _</SourceLine>
+   <SourceLine>"elem2.setAttribute('object-fit', 'fill');" + _</SourceLine>
+   <SourceLine>"elem2.style.imageRendering = '-webkit-optimize-contrast';")</SourceLine>
+   <SourceLine>Else</SourceLine>
+   <SourceLine>If StretchImage = True Then</SourceLine>
+   <SourceLine>Self.ExecuteJavaScript("var elem = document.createElement('img');" + _</SourceLine>
+   <SourceLine>"elem.setAttribute('src', '" + PNGWebFile.URL + "');" + _</SourceLine>
+   <SourceLine>"elem.setAttribute('height', '100%');" + _</SourceLine>
+   <SourceLine>"elem.setAttribute('width', '100%');" + _</SourceLine>
+   <SourceLine>"elem.setAttribute('object-fit', 'fill');" + _</SourceLine>
+   <SourceLine>"elem.style.imageRendering = '-webkit-optimize-contrast';" + _</SourceLine>
+   <SourceLine>"document.getElementById('" + Self.ControlID + "').appendChild(elem);")</SourceLine>
+   <SourceLine>Else</SourceLine>
+   <SourceLine>Self.ExecuteJavaScript("var elem = document.createElement('img');" + _</SourceLine>
+   <SourceLine>"elem.setAttribute('src', '" + PNGWebFile.URL + "');" + _</SourceLine>
+   <SourceLine>"elem.setAttribute('height', '100%');" + _</SourceLine>
+   <SourceLine>"elem.setAttribute('width', '100%');" + _</SourceLine>
+   <SourceLine>"elem.style.imageRendering = '-webkit-optimize-contrast';" + _</SourceLine>
+   <SourceLine>"elem.style.objectFit = 'contain';" + _</SourceLine>
+   <SourceLine>"document.getElementById('" + Self.ControlID + "').appendChild(elem);")</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine>End If</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <AliasName></AliasName>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+  <ItemParams>ImageDataStr As String = ""</ItemParams>
+  <ItemResult></ItemResult>
+ </Method>
+ <Method>
+  <ItemName>DestroyAnimation</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>300158975</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub DestroyAnimation(ControlID As String)</SourceLine>
+   <SourceLine>//If IsNull(AnimationScriptDic) Then</SourceLine>
+   <SourceLine>//AnimationScriptDic = new Dictionary</SourceLine>
+   <SourceLine>//End If</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>Dim ScriptData As String = "DestroyAnimationLoop(" + App.ASCII_DoubleQuote + ControlID + App.ASCII_DoubleQuote + ")"</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>//AnimationScriptDic.Value(ControlID) = ScriptData</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>Self.ExecuteJavaScript(ScriptData)</SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <AliasName></AliasName>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+  <ItemParams>ControlID As String</ItemParams>
+  <ItemResult></ItemResult>
+ </Method>
+ <Method>
+  <ItemName>ResetAnimation</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>667924479</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub ResetAnimation(ControlID As String, ImageDataStr As String)</SourceLine>
+   <SourceLine>//DestroyAnimation(ControlID)</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>RedisplayImage = True</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>GenerateAnimation(ImageDataStr)</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>RedisplayImage = False</SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine></SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <AliasName></AliasName>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+  <ItemParams>ControlID As String, ImageDataStr As String</ItemParams>
+  <ItemResult></ItemResult>
+ </Method>
+ <Hook>
+  <ItemName>Pressed</ItemName>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemFlags>33</ItemFlags>
+  <SystemFlags>0</SystemFlags>
+  <ItemParams></ItemParams>
+  <ItemResult></ItemResult>
+ </Hook>
+ <Property>
+  <ItemName>JSFramework</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>218363903</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Shared JSFramework As WebFile</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>JSFramework As WebFile</ItemDeclaration>
+  <ItemFlags>33</ItemFlags>
+  <IsShared>1</IsShared>
+ </Property>
+ <Property>
+  <ItemName>MyControlCSS</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>504078335</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Shared MyControlCSS As WebFile</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>MyControlCSS As WebFile</ItemDeclaration>
+  <ItemFlags>33</ItemFlags>
+  <IsShared>1</IsShared>
+ </Property>
+ <Property>
+  <ItemName>VectorImagePic</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>299038719</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>VectorImagePic As Picture</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>VectorImagePic As Picture</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+ </Property>
+ <Property>
+  <ItemName>JSMethods</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1897914367</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Shared JSMethods As WebFile</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>JSMethods As WebFile</ItemDeclaration>
+  <ItemFlags>33</ItemFlags>
+  <IsShared>1</IsShared>
+ </Property>
+ <Property>
+  <ItemName>StretchImage</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>217217023</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>StretchImage As Boolean = False</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>StretchImage As Boolean = False</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+ </Property>
+ <Property>
+  <ItemName>RedisplayImage</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>238286847</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>RedisplayImage As Boolean = False</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>RedisplayImage As Boolean = False</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+ </Property>
+ <Property>
+  <ItemName>VectorImageStr</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>793548799</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>VectorImageStr As String</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>VectorImageStr As String</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+ </Property>
+ <Property>
+  <ItemName>PNGWebFile</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1206910975</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>PNGWebFile As WebFile</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>PNGWebFile As WebFile</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+ </Property>
+ <ViewBehavior>
+  <ViewProperty>
+   <ObjName>Index</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>ID</PropertyGroup>
+   <PropertyValue>-2147483648</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Name</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>ID</PropertyGroup>
+   <ItemType>String</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Super</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>ID</PropertyGroup>
+   <ItemType>String</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Height</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>34</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Width</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>100</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockBottom</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockHorizontal</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockLeft</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>True</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockRight</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockTop</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>True</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockVertical</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Left</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>0</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Top</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>0</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Enabled</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Appearance</PropertyGroup>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>RedisplayImage</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>TabIndex</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Visual Controls</PropertyGroup>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Visible</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Visual Controls</PropertyGroup>
+   <PropertyValue>True</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>VectorImagePic</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>SA</PropertyGroup>
+   <ItemType>Picture</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>VectorImageStr</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>SA</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>StretchImage</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>SA</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>_mPanelIndex</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>-1</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Indicator</ObjName>
+   <PropertyGroup>Visual Controls</PropertyGroup>
+   <ItemType>WebUIControl.Indicators</ItemType>
+   <EditorType>Enum</EditorType>
+   <Enumeration>
+    <ItemDef>0 - Default</ItemDef>
+    <ItemDef>1 - Primary</ItemDef>
+    <ItemDef>2 - Secondary</ItemDef>
+    <ItemDef>3 - Success</ItemDef>
+    <ItemDef>4 - Danger</ItemDef>
+    <ItemDef>5 - Warning</ItemDef>
+    <ItemDef>6 - Info</ItemDef>
+    <ItemDef>7 - Light</ItemDef>
+    <ItemDef>8 - Dark</ItemDef>
+    <ItemDef>9 - Link</ItemDef>
+   </Enumeration>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>_mName</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>ControlID</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+ </ViewBehavior>
+ <Constant>
+  <ItemName>InitJavascript</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1835196415</PartID>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemType>0</ItemType>
+  <ItemDef><Hex bytes="945">7661722053413B0D0A2866756E6374696F6E2028534129207B0D0A20202020636C61737320566563746F72496D61676520657874656E647320586F6A6F5765622E586F6A6F56697375616C436F6E74726F6C207B0D0A2020202020202020636F6E7374727563746F722869642C206576656E747329207B0D0A20202020202020202020202073757065722869642C206576656E7473293B0D0A096C657420656C203D20746869732E444F4D456C656D656E7428293B0D0A202020202020202020202020746869732E6D55524C203D2022223B0D0A09656C2E6164644576656E744C697374656E65722827636C69636B272C2066756E6374696F6E28657629207B0D0A0909586F6A6F5765622E636F6E74726F6C732E6C6F6F6B757028656C2E6964292E747269676765725365727665724576656E74282750726573736564272C206E756C6C293B0D0A097D293B0D0A20202020202020207D0D0A202020202020202072656E6465722829207B0D0A20202020202020202020202073757065722E72656E64657228293B0D0A2020202020202020202020206C657420656C203D20746869732E444F4D456C656D656E7428293B0D0A2020202020202020202020206966202821656C290D0A2020202020202020202020202020202072657475726E3B0D0A202020202020202020202020746869732E7365744174747269627574657328293B0D0A2020202020202020202020202F2F6C657420737667203D20656C2E717565727953656C6563746F7228226F626A65637422293B0D0A2020202020202020202020202F2F6C657420737667696E203D20656C2E717565727953656C6563746F722822706172616D22293B0D0A2020202020202020202020202F2F234175746F4C6F6164230D0A202020202020202020202020746869732E6170706C79557365725374796C6528293B0D0A20202020202020207D0D0A2020202020202020757064617465436F6E74726F6C286461746129207B0D0A20202020202020202020202073757065722E757064617465436F6E74726F6C2864617461293B0D0A2020202020202020202020206C6574206A73203D20242E70617273654A534F4E2864617461293B0D0A202020202020202020202020746869732E6D55524C203D206A732E75726C3B0D0A202020202020202020202020746869732E7265667265736828293B0D0A20202020202020207D0D0A202020207D0D0A2020202053412E566563746F72496D616765203D20566563746F72496D6167653B0D0A7D29285341207C7C20285341203D207B7D29293B</Hex></ItemDef>
+  <ItemFlags>33</ItemFlags>
+ </Constant>
+ <Constant>
+  <ItemName>JavascripttData</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>674387967</PartID>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemType>0</ItemType>
+  <ItemDef><Hex bytes="226">76617220616E696D6174696F6E64696374203D207B7D3B0D0A0D0A66756E6374696F6E2044657374726F79416E696D6174696F6E4C6F6F7028436F6E74726F6C494429207B0D0A202076617220636F6E74726F6C4E6F6465203D20646F63756D656E742E676574456C656D656E744279496428436F6E74726F6C4944293B0D0A20207768696C652028636F6E74726F6C4E6F64652E66697273744368696C6429207B0D0A20202020636F6E74726F6C4E6F64652E72656D6F76654368696C6428636F6E74726F6C4E6F64652E6C6173744368696C64293B0D0A20207D0D0A7D3B0D0A</Hex></ItemDef>
+  <ItemFlags>0</ItemFlags>
+ </Constant>
+ <Constant>
+  <ItemName>LayoutEditorIcon</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>429469695</PartID>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemType>0</ItemType>
+  <ItemDef><Hex bytes="3352">6956424F5277304B47676F414141414E5355684555674141414C554141414341434159414141424E354369334141414141584E535230494172733463365141414141526E51553142414143780D6A777638595155414141414A6345685A63774141437849414141735341644C646676774141416C45535552425648686537643170534A5262474166777879584C584A4A6F3036672B474B56590D325561305239464B594A6B666A4461534D694B6F766852424642583149636D6944467178514D325146704D6730494C4343454A4E4C644B4D6943544A7055777255317573652B397A4F484F480D4F3365617A5866654F52372F50336A705057656379336A6E5038637A7A336B5876372F2B51514161385A662F416D67446F516274494E53674859516174494E51673359516174414F516733610D4D61564F2F66333764337230364246392B504242396B427630644451494E373343524D6D69485A7963724C343135744D4358567A637A4D6C4A5356526358477837494865796F7931506B772F0D5144756D6A39542B2F7634306550426743676B4A6B592B437A74726232366D7071556D326944352F2F6B7A68346547793552326D687A6F344F4A6853556C496F506A356550676F36652F4C6B0D43563234634547326948627533456C486A687968304E425132574D3854442F41564A6D5A6D5854392B6E57767A713052616A4456313639663663434241315252555346376A496451672B6E650D766E314C613965757064726157746C6A4C495161544D5746416C5A5455304E62746D79685435382B6962615245476F77315A496C533668506E7A35696E77734836656E7059743949434457590D617548436854527533446A79382F4D544B38305A47526D556D357372487A574777354A6552306548495576624C5330747448587256696F704B61462B2F66714A6B7437456952506C6F332F470D4C3433726E44392B2F4A41396F43702B582F7633377939625672596C7666506E7A395037392B2F70314B6C546F74527277615032374E6D7A526469377932476F43776F4B614D654F48624C6C0D75642B2F663473504233387941774943615033363954526A78677A35364A39786D472F63754548506E6A3254506143717558506E30744B6C532F3858536E75685A6D2F6576424839504F43780D4B564F6D55485A324E735847786F7032647A674D3964577256326E4E6D6A57795A517A2B6F7343686E6A6C7A70757A354D2F345138433961576C6F716530425669786376706C577256726B630D616C5A65586B355A57566E5532646B70637047516B4544352B666E7955632B35484F72417745434B694967512B2B37696B6271747259312B2F767A7056716835704F5A6645694F312B75624D0D6D534F2B424C6F54616E352F65545A773739343932554F30613963754F6E546F6B4E32706A4B74634476577759634E6F382B624E597439645044666E5653537554376F54616E35702F4F654A0D6E7739714377734C737A766F4F516F312B2F4C6C4331322B664A6D71713674464F79676F694934665079362B672F464136676D58517A316978416A6174322B663248635872794B644F33654F0D587231363556616F6F65647A466D6F4C586D5673624777552B337A41322F333739796B754C6B36303359575348696942567867484468776F39726D6F734737644F76475833524D494E5367680D4F6A71616C6939664C6C74456C5A57566C4A71615371327472624C48645167314B49464C7656796E35696F4B5431455A6634464D5330735442515A33494E53674643377263633261673831560D737A4E6E7A6F6A76647535417145457066467749427A73794D6C4B30755253386666743274383576526168424F554F47444246564E38737066317A32347950367548726D4371564C656C31640D5857493130644E76775743656D4A675963526B4564785A666E4F486E58726C7952527A2F77376E68455477764C302F55736831524F7452594A75383550466B6D642B6258723139697862476F0D71456773784846324E6D3361394A2F2F6E6A3259666F437975434C4342306D4E4854745774506D4C3438574C4638572B493071503150784A666672304B64585831387365554258586D586B4B0D597552496263464C3648796F716F5744794170594A6765764D694C55664A6A7130614E485A63743571444839414F3067314B41646842713067314344646842713041354344647052757154480D78666136756A7176584D55486A4D566E7130524652636D576C53394B65736F766B2B666B3546425A575A6E73415655745772534945684D5476624C346F6C32646D6E384248724778716230350D4335715A6C4236702B52543632376476553156566C65774256664846696669535969714D3146676D42362F4339415041414167316141656842753067314B41646842713067314344646842710D304937536457712B334652685953473966506C53396F4371706B36644B75346D674D55584A33434A684A374447356449734D4469432F5236536F2F5566496B45506A322B71616C4A396F43710D526F306152614E486A386230412F534836516541415242713041354344647042714545374344566F423645473753676461693764384649356E3675495465324E5437355668644A31616E34650D76776263486B4E394B31657546486656736F5846467874384178742B337576587232555071497266553734506F69307376746A674A6466673447414B4451334670766A477434705468664C480D666A51304E46426E5A3666734156554E48547155777350445A63734B30772F514471596641415A41714545374344566F42364547375344556F4232454772536A64456D506A796D6F724B7A450D37544636674C69344F426F2B664C68735761464F6251504C354430486C736B4276456A706B66726274322F30384F4644616D35756C6A3267716D6E54706C4630644C527357574836595964710D4E386B422B2F68397462336D423850307777372B6E7855514549424E386331656F48304663327251446B494E326B476F515473494E5767486F5162744B46335334394F3536757672635470580D4438436E637730594D4543327246436E74744857316B61584C6C32693274706132514F71536B354F70756E5470387557466572554E766A46387930794F6A6F3673436D2B645856317958664E0D3935516571666C352F4272713675706B4436687178596F56754A694E7138766B504B3932396B7541372F48377970737454442F7334435859774D42416249707639674C744B796A70675859510D6174414F5167334B633764516746434430766757336E6675334A45746F704351454C6E335A7767314B497476437075586C30657472613269485245524964724F494E53674A4C376162585A320D4E723137393036304F644263316C7532624A6C6F4F364A306E5A7058716F714B6971697873564832674B726D7A5A744873624778736D586C535A323676623164504B656D706B6232454F33640D7535634F486A7A6F306E57776C5134314C704851632F42376173516C45766977434D37643438655078534A4C333735394B5455316C5536665069312F776A6C4D5030415A66507849666E342B0D6C5A6157696B447A714C786877775936665069772F416E584B44315338366532724B794D576C70615A412B6F4B6A342B6E6B614F48436C625675364D3144647633715443776B4C5A49686F2F0D666A7A6476587458484E6271447557502F5943657A64565146786358693147617630657857624E6D30625672317967794D6C4B3033594870422F686356565556465251552F42746F507472760D374E6D7A48675761496454674D7A784A655037384F57566B5A49692F356D7A516F454630374E67784D6658774645494E50734E6E4E4E323664557532694B4B696F69677A4D35506D7A3538760D657A794455494E50634245674B797672332B4D362B485A3161576C706C4A4351494E726434584B6F2B553846583744526B34312F415A58755851322B3966486A523070505478636E56544D2B0D5A70364C454B745872786274376E4B352B7346336E6F324A6952483737754C3649352B3977504D6D564439364639767178346B544A79676E4A3463714B69724551426B5546455237397579680D33627433553168596D507970376E453531455A42714873583231427A5A614F38764677456D6D3362746B3138556554523269695955344F704F4F53575143636D4A744C2B2F66734E4454527A0D4F464C7A4A4C366B70455332504D6658372B41795458563174566A4C333768784930326550466B2B436A717A48616B746548456C4E7A66583769706B647A6B4D745648345467424A53556C690D31596A6E35696B704B574A5A4666526E4C3953544A6B326942773865324C3142767845772F514254386547704A302B654E4F784C6F54326D6A3951382F654261354A6778592B536A6F4C4D580D4C313649413555732B41436C4251735769494B427435676561756A645449676270682B67483451617447504B3941504154426970515473494E5767486F516274494E53674859516174494E510D673359516174414D30642F445A4C375545624C42484141414141424A52553545726B4A6767673D3D0D</Hex></ItemDef>
+  <ItemFlags>0</ItemFlags>
+ </Constant>
+</block>
+<block type="WebView" ID="173252607">
+ <ObjName>WebPage_Home</ObjName>
+ <ObjContainerID>0</ObjContainerID>
+ <IsClass>1</IsClass>
+ <Superclass>WebPage</Superclass>
+ <ItemFlags>1</ItemFlags>
+ <IsInterface>0</IsInterface>
+ <Compatibility></Compatibility>
+ <HookInstance>
+  <ItemName>Shown</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>178161663</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub Shown()</SourceLine>
+   <SourceLine>c = New Container1</SourceLine>
+   <SourceLine>c.LockLeft = True</SourceLine>
+   <SourceLine>c.LockTop = True</SourceLine>
+   <SourceLine>c.LockRight = True</SourceLine>
+   <SourceLine>c.EmbedWithin(Self, 0, 0, c.Width, c.Height)</SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <Property>
+  <ItemName>c</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1333608447</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>c As WebContainer</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>c As WebContainer</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+ </Property>
+ <PropertyVal Name="LayoutDirection">0</PropertyVal>
+ <PropertyVal Name="Indicator">0</PropertyVal>
+ <PropertyVal Name="TabIndex">0</PropertyVal>
+ <PropertyVal Name="AllowTabOrderWrap">True</PropertyVal>
+ <PropertyVal Name="IsImplicitInstance">False</PropertyVal>
+ <PropertyVal Name="_mDesignWidth">0</PropertyVal>
+ <PropertyVal Name="_mDesignHeight">0</PropertyVal>
+ <PropertyVal Name="_ImplicitInstance">False</PropertyVal>
+ <PropertyVal Name="Visible">True</PropertyVal>
+ <PropertyVal Name="LockVertical">False</PropertyVal>
+ <PropertyVal Name="LockTop">True</PropertyVal>
+ <PropertyVal Name="LockRight">False</PropertyVal>
+ <PropertyVal Name="LockLeft">True</PropertyVal>
+ <PropertyVal Name="LockHorizontal">False</PropertyVal>
+ <PropertyVal Name="LockBottom">False</PropertyVal>
+ <PropertyVal Name="LayoutType">0</PropertyVal>
+ <PropertyVal Name="Enabled">False</PropertyVal>
+ <PropertyVal Name="ControlID"></PropertyVal>
+ <PropertyVal Name="Top">0</PropertyVal>
+ <PropertyVal Name="Left">0</PropertyVal>
+ <PropertyVal Name="Index">-2147483648</PropertyVal>
+ <PropertyVal Name="_mPanelIndex">-1</PropertyVal>
+ <PropertyVal Name="ImplicitInstance">True</PropertyVal>
+ <PropertyVal Name="Title">Untitled</PropertyVal>
+ <PropertyVal Name="MinimumHeight">400</PropertyVal>
+ <PropertyVal Name="MinimumWidth">600</PropertyVal>
+ <PropertyVal Name="Height">578</PropertyVal>
+ <PropertyVal Name="Width">1014</PropertyVal>
+ <ViewBehavior>
+  <ViewProperty>
+   <ObjName>_mPanelIndex</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>-1</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Index</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>ID</PropertyGroup>
+   <PropertyValue>-2147483648</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Name</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>ID</PropertyGroup>
+   <ItemType>String</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Super</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>ID</PropertyGroup>
+   <ItemType>String</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Left</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>0</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Top</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>0</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>ControlID</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Enabled</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Height</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>400</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LayoutType</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>LayoutTypes.Fixed</PropertyValue>
+   <ItemType>LayoutTypes</ItemType>
+   <EditorType>Enum</EditorType>
+   <Enumeration>
+    <ItemDef>0 - Fixed</ItemDef>
+    <ItemDef>1 - Flex</ItemDef>
+   </Enumeration>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockBottom</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockHorizontal</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockLeft</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>True</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockRight</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockTop</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>True</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockVertical</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>MinimumHeight</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>400</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>MinimumWidth</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>600</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Title</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>Untitled</PropertyValue>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Visible</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>True</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Width</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>600</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>_ImplicitInstance</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>_mDesignHeight</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>_mDesignWidth</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>_mName</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>IsImplicitInstance</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>AllowTabOrderWrap</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>True</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>TabIndex</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Visual Controls</PropertyGroup>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Indicator</ObjName>
+   <PropertyGroup>Visual Controls</PropertyGroup>
+   <ItemType>WebUIControl.Indicators</ItemType>
+   <EditorType>Enum</EditorType>
+   <Enumeration>
+    <ItemDef>0 - Default</ItemDef>
+    <ItemDef>1 - Primary</ItemDef>
+    <ItemDef>2 - Secondary</ItemDef>
+    <ItemDef>3 - Success</ItemDef>
+    <ItemDef>4 - Danger</ItemDef>
+    <ItemDef>5 - Warning</ItemDef>
+    <ItemDef>6 - Info</ItemDef>
+    <ItemDef>7 - Light</ItemDef>
+    <ItemDef>8 - Dark</ItemDef>
+    <ItemDef>9 - Link</ItemDef>
+   </Enumeration>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LayoutDirection</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>WebView</PropertyGroup>
+   <PropertyValue>LayoutDirections.LeftToRight</PropertyValue>
+   <ItemType>LayoutDirections</ItemType>
+   <EditorType>Enum</EditorType>
+   <Enumeration>
+    <ItemDef>0 - LeftToRight</ItemDef>
+    <ItemDef>1 - RightToLeft</ItemDef>
+    <ItemDef>2 - TopToBottom</ItemDef>
+    <ItemDef>3 - BottomToTop</ItemDef>
+   </Enumeration>
+  </ViewProperty>
+ </ViewBehavior>
+</block>
+<block type="WebContainer" ID="1010202623">
+ <ObjName>Container1</ObjName>
+ <ObjContainerID>0</ObjContainerID>
+ <IsClass>1</IsClass>
+ <Superclass>WebContainer</Superclass>
+ <ItemFlags>1</ItemFlags>
+ <IsInterface>0</IsInterface>
+ <Compatibility></Compatibility>
+ <HookInstance>
+  <ItemName>Opening</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>1765711871</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>Sub Opening()</SourceLine>
+   <SourceLine>Session.ContainerName = "Container1"</SourceLine>
+   <SourceLine>Session.ContainerDic.Value("Container1") = Self</SourceLine>
+   <SourceLine>End Sub</SourceLine>
+  </ItemSource>
+ </HookInstance>
+ <Property>
+  <ItemName>TagObjectDic</ItemName>
+  <Compatibility></Compatibility>
+  <Visible>1</Visible>
+  <PartID>173129727</PartID>
+  <ItemSource>
+   <TextEncoding>134217984</TextEncoding>
+   <SourceLine>TagObjectDic As Dictionary</SourceLine>
+   <SourceLine></SourceLine>
+  </ItemSource>
+  <TextEncoding>134217984</TextEncoding>
+  <ItemDeclaration>TagObjectDic As Dictionary</ItemDeclaration>
+  <ItemFlags>0</ItemFlags>
+  <IsShared>0</IsShared>
+ </Property>
+ <PropertyVal Name="LayoutDirection">0</PropertyVal>
+ <PropertyVal Name="LayoutType">0</PropertyVal>
+ <PropertyVal Name="Indicator">0</PropertyVal>
+ <PropertyVal Name="TabIndex">0</PropertyVal>
+ <PropertyVal Name="ScrollDirection">0</PropertyVal>
+ <PropertyVal Name="_mDesignWidth">0</PropertyVal>
+ <PropertyVal Name="_mDesignHeight">0</PropertyVal>
+ <PropertyVal Name="Width">930</PropertyVal>
+ <PropertyVal Name="Visible">True</PropertyVal>
+ <PropertyVal Name="LockVertical">False</PropertyVal>
+ <PropertyVal Name="LockTop">True</PropertyVal>
+ <PropertyVal Name="LockRight">False</PropertyVal>
+ <PropertyVal Name="LockLeft">True</PropertyVal>
+ <PropertyVal Name="LockHorizontal">False</PropertyVal>
+ <PropertyVal Name="LockBottom">False</PropertyVal>
+ <PropertyVal Name="Height">676</PropertyVal>
+ <PropertyVal Name="Enabled">True</PropertyVal>
+ <PropertyVal Name="ControlID"></PropertyVal>
+ <PropertyVal Name="Top">0</PropertyVal>
+ <PropertyVal Name="Left">0</PropertyVal>
+ <PropertyVal Name="_mPanelIndex">-1</PropertyVal>
+ <ViewBehavior>
+  <ViewProperty>
+   <ObjName>_mPanelIndex</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>-1</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Name</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>ID</PropertyGroup>
+   <ItemType>String</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Super</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>ID</PropertyGroup>
+   <ItemType>String</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Left</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>0</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Top</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Position</PropertyGroup>
+   <PropertyValue>0</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>ControlID</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Enabled</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>True</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockBottom</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockHorizontal</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockLeft</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>True</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockRight</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockTop</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>True</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LockVertical</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>False</PropertyValue>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Visible</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Boolean</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>_mDesignHeight</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>_mDesignWidth</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>_mName</ObjName>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <ItemType>String</ItemType>
+   <EditorType>MultiLineEditor</EditorType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>ScrollDirection</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Behavior</PropertyGroup>
+   <PropertyValue>ScrollDirections.None</PropertyValue>
+   <ItemType>WebContainer.ScrollDirections</ItemType>
+   <EditorType>Enum</EditorType>
+   <Enumeration>
+    <ItemDef>0 - None</ItemDef>
+    <ItemDef>1 - Horizontal</ItemDef>
+    <ItemDef>2 - Vertical</ItemDef>
+    <ItemDef>3 - Both</ItemDef>
+   </Enumeration>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>TabIndex</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>Visual Controls</PropertyGroup>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Indicator</ObjName>
+   <PropertyGroup>Visual Controls</PropertyGroup>
+   <ItemType>WebUIControl.Indicators</ItemType>
+   <EditorType>Enum</EditorType>
+   <Enumeration>
+    <ItemDef>0 - Default</ItemDef>
+    <ItemDef>1 - Primary</ItemDef>
+    <ItemDef>2 - Secondary</ItemDef>
+    <ItemDef>3 - Success</ItemDef>
+    <ItemDef>4 - Danger</ItemDef>
+    <ItemDef>5 - Warning</ItemDef>
+    <ItemDef>6 - Info</ItemDef>
+    <ItemDef>7 - Light</ItemDef>
+    <ItemDef>8 - Dark</ItemDef>
+    <ItemDef>9 - Link</ItemDef>
+   </Enumeration>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LayoutType</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>View</PropertyGroup>
+   <PropertyValue>LayoutTypes.Fixed</PropertyValue>
+   <ItemType>LayoutTypes</ItemType>
+   <EditorType>Enum</EditorType>
+   <Enumeration>
+    <ItemDef>0 - Fixed</ItemDef>
+    <ItemDef>1 - Flex</ItemDef>
+   </Enumeration>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>LayoutDirection</ObjName>
+   <Visible>1</Visible>
+   <PropertyGroup>View</PropertyGroup>
+   <PropertyValue>LayoutDirections.LeftToRight</PropertyValue>
+   <ItemType>LayoutDirections</ItemType>
+   <EditorType>Enum</EditorType>
+   <Enumeration>
+    <ItemDef>0 - LeftToRight</ItemDef>
+    <ItemDef>1 - RightToLeft</ItemDef>
+    <ItemDef>2 - TopToBottom</ItemDef>
+    <ItemDef>3 - BottomToTop</ItemDef>
+   </Enumeration>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Width</ObjName>
+   <PropertyValue>250</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+  <ViewProperty>
+   <ObjName>Height</ObjName>
+   <PropertyValue>250</PropertyValue>
+   <ItemType>Integer</ItemType>
+  </ViewProperty>
+ </ViewBehavior>
+ <ControlBehavior>
+  <Superclass>VisualControl</Superclass>
+ </ControlBehavior>
+ <ControlBehavior>
+  <Superclass>VisualControl</Superclass>
+ </ControlBehavior>
+ <ControlBehavior>
+  <Superclass>VisualControl</Superclass>
+ </ControlBehavior>
+ <ControlBehavior>
+  <Superclass>VisualControl</Superclass>
+ </ControlBehavior>
+ <ControlBehavior>
+  <Superclass>VisualControl</Superclass>
+ </ControlBehavior>
+ <Control>
+  <ControlClass>VisualControl</ControlClass>
+  <ItemName>VisualControl</ItemName>
+  <PropertyVal Name="ControlID"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Height">239</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Indicator">0</PropertyVal>
+  <PropertyVal Name="Left">40</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockHorizontal">False</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockVertical">False</PropertyVal>
+  <PropertyVal Name="Name">VisualControl_1</PropertyVal>
+  <PropertyVal Name="RedisplayImage">False</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="StretchImage">False</PropertyVal>
+  <PropertyVal Name="Super">VisualControl</PropertyVal>
+  <PropertyVal Name="TabIndex">0</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Top">40</PropertyVal>
+  <PropertyVal Name="VectorImagePic">1274105855</PropertyVal>
+  <PropertyVal Name="VectorImageStr">Cow</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Width">259</PropertyVal>
+  <PropertyVal Name="_mPanelIndex">-1</PropertyVal>
+  <ControlIndex>0</ControlIndex>
+  <Locked>0</Locked>
+  <PartID>1752520703</PartID>
+ </Control>
+ <Control>
+  <ControlClass>VisualControl</ControlClass>
+  <ItemName>VisualControl</ItemName>
+  <PropertyVal Name="ControlID"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Height">239</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Indicator">0</PropertyVal>
+  <PropertyVal Name="Left">307</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockHorizontal">False</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockVertical">False</PropertyVal>
+  <PropertyVal Name="Name">VisualControl_2</PropertyVal>
+  <PropertyVal Name="RedisplayImage">False</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="StretchImage">False</PropertyVal>
+  <PropertyVal Name="Super">VisualControl</PropertyVal>
+  <PropertyVal Name="TabIndex">1</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Top">40</PropertyVal>
+  <PropertyVal Name="VectorImagePic">1274105855</PropertyVal>
+  <PropertyVal Name="VectorImageStr">Cow</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Width">259</PropertyVal>
+  <PropertyVal Name="_mPanelIndex">-1</PropertyVal>
+  <ControlIndex>1</ControlIndex>
+  <Locked>0</Locked>
+  <PartID>1952239615</PartID>
+ </Control>
+ <Control>
+  <ControlClass>VisualControl</ControlClass>
+  <ItemName>VisualControl</ItemName>
+  <PropertyVal Name="ControlID"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Height">239</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Indicator">0</PropertyVal>
+  <PropertyVal Name="Left">574</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockHorizontal">False</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockVertical">False</PropertyVal>
+  <PropertyVal Name="Name">VisualControl_3</PropertyVal>
+  <PropertyVal Name="RedisplayImage">False</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="StretchImage">False</PropertyVal>
+  <PropertyVal Name="Super">VisualControl</PropertyVal>
+  <PropertyVal Name="TabIndex">2</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Top">40</PropertyVal>
+  <PropertyVal Name="VectorImagePic">1274105855</PropertyVal>
+  <PropertyVal Name="VectorImageStr">Cow</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Width">259</PropertyVal>
+  <PropertyVal Name="_mPanelIndex">-1</PropertyVal>
+  <ControlIndex>2</ControlIndex>
+  <Locked>0</Locked>
+  <PartID>502882303</PartID>
+ </Control>
+ <Control>
+  <ControlClass>VisualControl</ControlClass>
+  <ItemName>VisualControl</ItemName>
+  <PropertyVal Name="ControlID"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Height">239</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Indicator">0</PropertyVal>
+  <PropertyVal Name="Left">40</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockHorizontal">False</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockVertical">False</PropertyVal>
+  <PropertyVal Name="Name">VisualControl_4</PropertyVal>
+  <PropertyVal Name="RedisplayImage">False</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="StretchImage">False</PropertyVal>
+  <PropertyVal Name="Super">VisualControl</PropertyVal>
+  <PropertyVal Name="TabIndex">3</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Top">287</PropertyVal>
+  <PropertyVal Name="VectorImagePic">1274105855</PropertyVal>
+  <PropertyVal Name="VectorImageStr">Cow</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Width">259</PropertyVal>
+  <PropertyVal Name="_mPanelIndex">-1</PropertyVal>
+  <ControlIndex>3</ControlIndex>
+  <Locked>0</Locked>
+  <PartID>187572223</PartID>
+ </Control>
+ <Control>
+  <ControlClass>VisualControl</ControlClass>
+  <ItemName>VisualControl</ItemName>
+  <PropertyVal Name="ControlID"></PropertyVal>
+  <PropertyVal Name="Enabled">True</PropertyVal>
+  <PropertyVal Name="Height">239</PropertyVal>
+  <PropertyVal Name="Index">-2147483648</PropertyVal>
+  <PropertyVal Name="Indicator">0</PropertyVal>
+  <PropertyVal Name="Left">307</PropertyVal>
+  <PropertyVal Name="LockBottom">False</PropertyVal>
+  <PropertyVal Name="LockHorizontal">False</PropertyVal>
+  <PropertyVal Name="LockLeft">True</PropertyVal>
+  <PropertyVal Name="LockRight">False</PropertyVal>
+  <PropertyVal Name="LockTop">True</PropertyVal>
+  <PropertyVal Name="LockVertical">False</PropertyVal>
+  <PropertyVal Name="Name">VisualControl_5</PropertyVal>
+  <PropertyVal Name="RedisplayImage">False</PropertyVal>
+  <PropertyVal Name="Scope">0</PropertyVal>
+  <PropertyVal Name="StretchImage">False</PropertyVal>
+  <PropertyVal Name="Super">VisualControl</PropertyVal>
+  <PropertyVal Name="TabIndex">4</PropertyVal>
+  <PropertyVal Name="Tooltip"></PropertyVal>
+  <PropertyVal Name="Top">287</PropertyVal>
+  <PropertyVal Name="VectorImagePic">1274105855</PropertyVal>
+  <PropertyVal Name="VectorImageStr">Cow</PropertyVal>
+  <PropertyVal Name="Visible">True</PropertyVal>
+  <PropertyVal Name="Width">259</PropertyVal>
+  <PropertyVal Name="_mPanelIndex">-1</PropertyVal>
+  <ControlIndex>4</ControlIndex>
+  <Locked>0</Locked>
+  <PartID>1336578047</PartID>
+ </Control>
+</block>
+<block type="Folder" ID="419772415">
+ <ObjName>ImagesPNG</ObjName>
+ <ObjContainerID>0</ObjContainerID>
+</block>
+<block type="BuildAutomation" ID="1138765823">
+ <ObjName>Build Automation</ObjName>
+ <ObjContainerID>0</ObjContainerID>
+</block>
+<block type="BuildStepsList" ID="1918224383">
+ <ObjName>Linux</ObjName>
+ <ObjContainerID>1138765823</ObjContainerID>
+</block>
+<block type="BuildProjectStep" ID="1417449471">
+ <ObjName>Build</ObjName>
+ <ObjContainerID>1918224383</ObjContainerID>
+</block>
+<block type="BuildStepsList" ID="1431093247">
+ <ObjName>Mac OS X</ObjName>
+ <ObjContainerID>1138765823</ObjContainerID>
+</block>
+<block type="BuildProjectStep" ID="778872831">
+ <ObjName>Build</ObjName>
+ <ObjContainerID>1431093247</ObjContainerID>
+</block>
+<block type="BuildStepsList" ID="1798782975">
+ <ObjName>Windows</ObjName>
+ <ObjContainerID>1138765823</ObjContainerID>
+</block>
+<block type="BuildProjectStep" ID="1794347007">
+ <ObjName>Build</ObjName>
+ <ObjContainerID>1798782975</ObjContainerID>
+</block>
+<block type="BuildStepsList" ID="482054143">
+ <ObjName>Xojo Cloud</ObjName>
+ <ObjContainerID>1138765823</ObjContainerID>
+</block>
+<block type="BuildProjectStep" ID="54468607">
+ <ObjName>Build</ObjName>
+ <ObjContainerID>482054143</ObjContainerID>
+</block>
+<block type="MultiImage" ID="1274105855">
+ <ObjName>Cow</ObjName>
+ <ObjContainerID>419772415</ObjContainerID>
+ <ItemName>Cow</ItemName>
+ <ImageRepresentation>
+  <SaveInfo><Hex bytes="78">00F1D173010201000000002E433A5C53564E5C414243204D616E75666163747572696E675C484D495C496D61676573504E475C436F772E706E670300000000010004000000000100000000000000</Hex></SaveInfo>
+  <FullPath>C:\SVN\ABC Manufacturing\HMI\ImagesPNG\Cow.png</FullPath>
+  <PartialPath>..\ImagesPNG\Cow.png</PartialPath>
+  <ImageSpecification>
+   <Comment></Comment>
+   <Device>31</Device>
+   <Height>1080</Height>
+   <Orientation>0</Orientation>
+   <Platform>15</Platform>
+   <Resolution>72</Resolution>
+   <Width>1080</Width>
+   <HeightDouble>1080</HeightDouble>
+   <WidthDouble>1080</WidthDouble>
+  </ImageSpecification>
+ </ImageRepresentation>
+ <ImageRepresentation>
+  <ImageSpecification>
+   <Comment></Comment>
+   <Device>31</Device>
+   <Height>1080</Height>
+   <Orientation>0</Orientation>
+   <Platform>15</Platform>
+   <Resolution>144</Resolution>
+   <Width>1080</Width>
+   <HeightDouble>1080</HeightDouble>
+   <WidthDouble>1080</WidthDouble>
+  </ImageSpecification>
+ </ImageRepresentation>
+ <ImageRepresentation>
+  <ImageSpecification>
+   <Comment></Comment>
+   <Device>31</Device>
+   <Height>1080</Height>
+   <Orientation>0</Orientation>
+   <Platform>15</Platform>
+   <Resolution>216</Resolution>
+   <Width>1080</Width>
+   <HeightDouble>1080</HeightDouble>
+   <WidthDouble>1080</WidthDouble>
+  </ImageSpecification>
+ </ImageRepresentation>
+</block>
+<block type="MultiImage" ID="900995071">
+ <ObjName>Puzzle</ObjName>
+ <ObjContainerID>419772415</ObjContainerID>
+ <ItemName>Puzzle</ItemName>
+ <ImageRepresentation>
+  <SaveInfo><Hex bytes="81">00F1D1730102010000000031433A5C53564E5C414243204D616E75666163747572696E675C484D495C496D61676573504E475C50757A7A6C652E706E670300000000010004000000000100000000000000</Hex></SaveInfo>
+  <FullPath>C:\SVN\ABC Manufacturing\HMI\ImagesPNG\Puzzle.png</FullPath>
+  <PartialPath>..\ImagesPNG\Puzzle.png</PartialPath>
+  <ImageSpecification>
+   <Comment></Comment>
+   <Device>31</Device>
+   <Height>1080</Height>
+   <Orientation>0</Orientation>
+   <Platform>15</Platform>
+   <Resolution>72</Resolution>
+   <Width>1080</Width>
+   <HeightDouble>1080</HeightDouble>
+   <WidthDouble>1080</WidthDouble>
+  </ImageSpecification>
+ </ImageRepresentation>
+ <ImageRepresentation>
+  <ImageSpecification>
+   <Comment></Comment>
+   <Device>31</Device>
+   <Height>1080</Height>
+   <Orientation>0</Orientation>
+   <Platform>15</Platform>
+   <Resolution>144</Resolution>
+   <Width>1080</Width>
+   <HeightDouble>1080</HeightDouble>
+   <WidthDouble>1080</WidthDouble>
+  </ImageSpecification>
+ </ImageRepresentation>
+ <ImageRepresentation>
+  <ImageSpecification>
+   <Comment></Comment>
+   <Device>31</Device>
+   <Height>1080</Height>
+   <Orientation>0</Orientation>
+   <Platform>15</Platform>
+   <Resolution>216</Resolution>
+   <Width>1080</Width>
+   <HeightDouble>1080</HeightDouble>
+   <WidthDouble>1080</WidthDouble>
+  </ImageSpecification>
+ </ImageRepresentation>
+</block>
+<block type="MultiImage" ID="1632057343">
+ <ObjName>Astronaut</ObjName>
+ <ObjContainerID>419772415</ObjContainerID>
+ <ItemName>Astronaut</ItemName>
+ <ImageRepresentation>
+  <SaveInfo><Hex bytes="84">00F1D1730102010000000034433A5C53564E5C414243204D616E75666163747572696E675C484D495C496D61676573504E475C417374726F6E6175742E706E670300000000010004000000000100000000000000</Hex></SaveInfo>
+  <FullPath>C:\SVN\ABC Manufacturing\HMI\ImagesPNG\Astronaut.png</FullPath>
+  <PartialPath>..\ImagesPNG\Astronaut.png</PartialPath>
+  <ImageSpecification>
+   <Comment></Comment>
+   <Device>31</Device>
+   <Height>1080</Height>
+   <Orientation>0</Orientation>
+   <Platform>15</Platform>
+   <Resolution>72</Resolution>
+   <Width>1080</Width>
+   <HeightDouble>1080</HeightDouble>
+   <WidthDouble>1080</WidthDouble>
+  </ImageSpecification>
+ </ImageRepresentation>
+ <ImageRepresentation>
+  <ImageSpecification>
+   <Comment></Comment>
+   <Device>31</Device>
+   <Height>1080</Height>
+   <Orientation>0</Orientation>
+   <Platform>15</Platform>
+   <Resolution>144</Resolution>
+   <Width>1080</Width>
+   <HeightDouble>1080</HeightDouble>
+   <WidthDouble>1080</WidthDouble>
+  </ImageSpecification>
+ </ImageRepresentation>
+ <ImageRepresentation>
+  <ImageSpecification>
+   <Comment></Comment>
+   <Device>31</Device>
+   <Height>1080</Height>
+   <Orientation>0</Orientation>
+   <Platform>15</Platform>
+   <Resolution>216</Resolution>
+   <Width>1080</Width>
+   <HeightDouble>1080</HeightDouble>
+   <WidthDouble>1080</WidthDouble>
+  </ImageSpecification>
+ </ImageRepresentation>
+</block>
+<block type="UIState" ID="0">
+ <WarningPreferences>
+  <ItemName>5</ItemName>
+  <ItemData>0</ItemData>
+  <ItemName>6</ItemName>
+  <ItemData>0</ItemData>
+  <ItemName>7</ItemName>
+  <ItemData>0</ItemData>
+  <ItemName>14</ItemName>
+  <ItemData>0</ItemData>
+  <ItemName>2</ItemName>
+  <ItemData>0</ItemData>
+  <ItemName>-2</ItemName>
+  <ItemData>0</ItemData>
+  <ItemName>16</ItemName>
+  <ItemData>0</ItemData>
+ </WarningPreferences>
+ <StudioWindowState>
+  <EditBounds><Rect left="1912" top="-8" width="1936" height="1048"/></EditBounds>
+  <WindowMaximized>1</WindowMaximized>
+  <Editors>
+   <EditorCount>1</EditorCount>
+   <Editor>
+    <EditorIndex>0</EditorIndex>
+    <EditorLocation>Container1.Opening</EditorLocation>
+    <EditorPath></EditorPath>
+    <EditingPartID>1010202623</EditingPartID>
+    <EditorPath></EditorPath>
+   </Editor>
+   <SelectedTab>0</SelectedTab>
+  </Editors>
+ </StudioWindowState>
+</block>
+</RBProject>
